@@ -22,7 +22,7 @@
 }
 
 .menu-h ul li a{
-    color: #FFFFFF;
+    color: #6463af;
     padding: 40px;
     display: inline-block;
     text-decoration: none;
@@ -41,7 +41,7 @@
     height: 500px;
     text-align: center;
     padding: 40px 4%;
-    color: rgb(20,20,20);
+    color: rgb(0, 4, 247);
 
     background-position: center;
     background-size: cover;/*significa que a imagem de fundo sempre se ajustará a toda a div*/
